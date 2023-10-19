@@ -33,7 +33,7 @@ export default function Home() {
                 </div>
                 <div className="flex text-gray-950 ">
                         <div className="bg-white rounded h-5 leading-3">
-                        <p className=" rounded p-1"><a href="/labs/#p3"> ► GitHub</a></p>
+                        <p className=" rounded p-1"><a href="/labs"> ► GitHub</a></p>
                         </div>
                 </div>  
             </div>
@@ -56,7 +56,7 @@ export default function Home() {
                 </div>
                 <div className="flex text-gray-950 ">
                         <div className="bg-white rounded h-5 leading-3">
-                        <p className=" rounded p-1"><a href="/labs/#p9"> ► Github</a></p>
+                        <p className=" rounded p-1"><a href="/labs"> ► Github</a></p>
                         </div>
                 </div>  
             </div>
@@ -81,7 +81,7 @@ export default function Home() {
                 </div>
                 <div className="flex text-gray-950 ">
                         <div className="bg-white rounded h-5 leading-3">
-                        <p className=" rounded p-1"><a href="/labs/#p2"> ► GitHub</a></p>
+                        <p className=" rounded p-1"><a href="/labs"> ► GitHub</a></p>
                         </div>
                 </div>  
             </div>
