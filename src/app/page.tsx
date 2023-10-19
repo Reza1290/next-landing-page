@@ -44,7 +44,7 @@ export default function Home() {
               Project OOP GUI JAVA. JFRAME
             </div>
             <div  className="bg-[#3a3b3c] m-1 rounded ">
-                <img src="img/thumbnail4.png" className="object-fill h-auto w-auto rounded"/>
+                <img src="img/thumbnail9.png" className="object-fill h-auto w-auto rounded"/>
             </div>
             <div className="px-1 text-lg leading-4">
                 <p> {">"} Project OOP GUI JAVA. Menggunakan Object Oriented Programming dan JFrame</p>
