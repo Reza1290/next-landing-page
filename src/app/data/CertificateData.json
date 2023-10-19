@@ -1,0 +1,43 @@
+{
+    "data" : [
+        {
+
+            "Title" : "Web Developer",
+            
+            "Organisasi" : "Kominfo Indonesia",
+            
+            "Date" : "August 2023"
+            
+            },
+            
+            {
+            
+            "Title" : "Dasar Pemrograman C",
+            
+            "Organisasi" : "Dicoding Indonesia",
+            
+            "Date" : "July 2023"
+            
+            },
+            
+            {
+            
+            "Title" : "Sql Dasar",
+            
+            "Organisasi" : "Dicoding Indonesia",
+            
+            "Date" : "July 2023"
+            
+            },
+            
+            {
+            
+            "Title" : "Juara 2 Ie Fair ITS 17th",
+            
+            "Organisasi" : "HIMA TEKNIK INDUSTRI ITS",
+            
+            "Date" : "November 2021"
+            
+            }
+    ]
+}

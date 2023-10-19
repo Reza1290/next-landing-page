@@ -1,0 +1,59 @@
+{
+    "data" : [
+        {
+            "title" : "Hotel Management System JAVA",
+            "desc"  : "An app with GUI using JAVA Object Oriented Programming and JFrame, With JavaDoc " ,
+            "img"   : "/img/thumbnail9.png",
+            "href"  : "https://github.com/reza1290/hotel-management-system"
+        },
+        {
+            "title" : "GameSpace Website Community",
+            "desc"  : "Single page app of GameSpace Community using ReactJS (cra), tailwind for css and firebase for database." ,
+            "img"   : "/img/thumbnail6.png",
+            "href"  : "https://github.com/reza1290/gamespace-react"
+        },
+        {
+            "title" : "Vue JS E-Commerce",
+            "desc"  : "A Single Page Eccomerce using VueJs, Rakamin x Core Initiative Project-based Intern" ,
+            "img"   : "/img/thumbnail8.png",
+            "href"  : "https://github.com/Reza1290/ecommerce-catalog"
+        },
+        {
+            "title" : "Landing Page BPSDMP KOMINFO Surabaya + CMS",
+            "desc"  : "A landing page for BPSDMP KOMINFO Surabaya with CMS News feature using Tailwind css, PHP native and PHPMYADMIN. Digitalent Vocational" ,
+            "img"   : "/img/thumbnail7.png",
+            "href"  : "https://github.com/reza1290/blog-website-php"
+        },
+        {
+            "title" : "AnimeCek Website",
+            "desc"  : "Single Page App, Website AnimeCek to search Anime using ReactJs, Tailwind.css an Jikan Moe API." ,
+            "img"   : "/img/thumbnail5.png",
+            "href"  : "https://anime-cek.netlify.app/"
+        },
+        {
+            "title" : "Blog Pemrograman.tech",
+            "desc"  : "Blog of Pemrograman.tech made by me using Blogger.com, Tailwind.css. About Tutorials etc." ,
+            "img"   : "/img/thumbnail1.png",
+            "href"  : "https://pemrograman.tech"
+        },
+        {
+            "title" : "Website My Panti",
+            "desc"  : "Team Projects about Donation Funding website, using Tailwind css bootstrap css PHP and Midtrans Gateway Payment." ,
+            "img"   : "/img/thumbnail2.png",
+            "href"  : "https://mypanti.my.id"
+        },
+        {
+            "title" : "Dashboard Pens Lupis",
+            "desc"  : "A LMS Dashboard for final exam project by me, using Html + Css and Js, Php." ,
+            "img"   : "/img/thumbnail3.png",
+            "href"  : "https://github.com/Reza1290/PENS-LUPIS"
+        },
+        {
+            "title" : "D'Bengkel MockUp app",
+            "desc"  : "UI design of application d'Bengkels, app for otomotive services, using Figma." ,
+            "img"   : "/img/thumbnail4.png",
+            "href"  : "https://www.figma.com/proto/ofZvt7hlfADwor6C2FvJHG/Untitled?node-id=4-30&starting-point-node-id=4%3A30&mode=design&t=9v0wFvl6ENICZ5eB-1"
+        }
+
+    ]
+}
