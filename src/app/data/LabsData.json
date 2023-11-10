@@ -1,5 +1,24 @@
 {
     "data" : [
+
+        {
+            "title" : "PENS Lupis React Front-end (on Progress)",
+            "desc"  : "My Project about making Front-end for my Pens-Lupis app ( Portal For University) E-Learning and academics thing" ,
+            "img"   : "/img/thumbnai22.png",
+            "href"  : "https://github.com/Reza1290/pens-lupis-react"
+        },
+        {
+            "title" : "PENS Lupis Laravel API (on Progress)",
+            "desc"  : "My Project about making API for my Pens-Lupis app ( Portal For University) E-Learning and academics thing" ,
+            "img"   : "/img/thumbnai21.png",
+            "href"  : "https://github.com/Reza1290/pens-lupis-laravel"
+        },
+        {
+            "title" : "SIM Rumah Sakit",
+            "desc"  : "A Team Project with laravel building SIM app's for Middle Assestment Project I working in Pembayaran Section" ,
+            "img"   : "/img/thumbnai20.png",
+            "href"  : "https://gitlab.com/ade.hafis/sim-rumah-sakit"
+        },
         {
             "title" : "Hotel Management System JAVA",
             "desc"  : "An app with GUI using JAVA Object Oriented Programming and JFrame, With JavaDoc " ,
