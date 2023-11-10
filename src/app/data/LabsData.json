@@ -2,13 +2,13 @@
     "data" : [
 
         {
-            "title" : "PENS Lupis React Front-end (on Progress)",
+            "title" : "PENS Lupis React Front-end (in Progress)",
             "desc"  : "My Project about making Front-end for my Pens-Lupis app ( Portal For University) E-Learning and academics thing" ,
             "img"   : "/img/thumbnail22.png",
             "href"  : "https://github.com/Reza1290/pens-lupis-react"
         },
         {
-            "title" : "PENS Lupis Laravel API (on Progress)",
+            "title" : "PENS Lupis Laravel API (in Progress)",
             "desc"  : "My Project about making API for my Pens-Lupis app ( Portal For University) E-Learning and academics thing" ,
             "img"   : "/img/thumbnail21.png",
             "href"  : "https://github.com/Reza1290/pens-lupis-laravel"
