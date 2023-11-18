@@ -1,15 +1,19 @@
+'use client'
+
+import { usePathname } from "next/navigation"
 
 
 
 export default function NavbarLayout({header,subheader,children,...props}: any){
+    const path = usePathname()
 
     return(
         <div>
             <nav className="flex justify-center">
             <ul className="group flex flex-row">
-                <li className="hover:text-4xl hover:p-2.5 text-3xl p-4"><a href="/">Home</a></li>
-                <li className="hover:text-4xl hover:p-2.5 text-3xl p-4"><a href="/labs">Labs</a></li>
-                <li className="hover:text-4xl hover:p-2.5 text-3xl p-4"><a href="/about">About <span className="group-hover:hidden blink-menu text-xl">{'<'}</span></a></li>
+                <li className="hover:text-4xl hover:p-2.5 text-3xl p-4"><a href="/">Home {path == '/' && (<span className="group-hover:hidden blink-menu text-xl">{'<'}</span>)}</a></li>
+                <li className="hover:text-4xl hover:p-2.5 text-3xl p-4"><a href="/labs">Labs {path == '/labs' && (<span className="group-hover:hidden blink-menu text-xl">{'<'}</span>)}</a></li>
+                <li className="hover:text-4xl hover:p-2.5 text-3xl p-4"><a href="/about">About {path == '/about' && (<span className="group-hover:hidden blink-menu text-xl">{'<'}</span>)}</a></li>
             </ul>
             </nav>
             <section className="flex mx-5 flex-col mt-10 prose prose-slate">
